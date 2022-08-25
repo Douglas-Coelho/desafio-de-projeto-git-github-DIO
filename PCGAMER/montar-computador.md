@@ -35,3 +35,7 @@ Agora um gabinete num preço bom e com espaço para adicionar 6 ventoinhas com b
 - Gabinete Gamer Aigo DarkFlash com lateral em acrílico R$219,89 - [Pichau games](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-pollux-preto-lateral-acrilico)
 
 Bom, aí está o computador gamer que vai rolar excelentes jogos da atualidade, permitiando uma jogatina de qualidade, alguns jogos citados no máximo, outros no médio, mas com ótimo desempenho, custo final da nossa pequena brincadeira foi de R$4.948,90. O frete da pichau saiu gratuito para a região sudeste e o da americanas também, mas é muito importante levar em consideração a possibilidade de ter que adicionar o frete ao valor total final da compra.
+
+Orçamento total | Valor Gasto | Valor final
+-- | -- | --
+5000 | 4948,90 | 51,10
